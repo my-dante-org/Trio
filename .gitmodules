@@ -42,9 +42,9 @@
 	url = https://github.com/loopandlearn/RoundWhiteDiscKit.git
 	branch = main
 [submodule "LibreLoop"]
-	path = LibreLoop
-	url = https://github.com/loopandlearn/LibreLoop.git
-	branch = legacy-loopkit-compat
+    path = LibreLoop
+    url = https://github.com/my-dante-org/LibreLoop-private.git
+    branch = libre3-embedded-credentials
 [submodule "LoopAlgorithm"]
 	path = LoopAlgorithm
 	url = https://github.com/loopandlearn/LoopAlgorithm.git
